@@ -6,9 +6,13 @@
           <option name="url" value="https://github.com/MaciejM123/Portfolio.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Fatelagoon/nazwarobocza.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\klini\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\klini\Downloads" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
